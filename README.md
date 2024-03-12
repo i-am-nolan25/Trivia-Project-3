@@ -15,6 +15,8 @@ The following **required** functionalities are completed:
 
 - [x] A user should be able to answer at least 3 different questions
 
+## Stretch Features
+
 The following **stretch** feature is implemented:
 
 - [x] A user should be able to properly use the app in the vertical orientation on any device size
