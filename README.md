@@ -2,35 +2,32 @@
 
 Submitted by: **Nolan Lwin**
 
-The application is a partially finished version of the popular game **Wordle**. In each round, you will be given a secret word to guess and a limited number of chances to do so. With each guess, you'll receive clues that indicate which letters are included in the word and where they're located. You aim to use these clues to guess the secret word before running out of attempts.
-
-In this version, there will be 'Settings' to customize number of gusses, number of letters, word theme, and Alien Wordle mode. Moreover, there will be a 'Reset' button to restart the whole Wordle game.
-
-Time spent: **3** hours spent in total
+A Trivia app is a mobile application that tests your knowledge on a variety of topics through a question-and-answer format. It typically displays a question, multiple answer choices, and allows you to select the answer you believe is correct. The app keeps track of your score and shows how many questions you answer correctly at the end.
+Time spent: **4** hours spent in total
 
 ## Required Features
 
 The following **required** functionalities are completed:
 
-Objective 1: Change the number of letters in the word goal (Exercise 1)
-- [x] Implement the ```applyNumLettersSettings``` function. 
+- [x] A user should be able to view the current question and 4 different answers
+      
+- [x] A user should be able to view the next question after tapping on an answer
 
-Objective 2: Change the number of letters in the word goal (Exercise 2)
-- [x] Implement the ```applyNumGuessesSettings``` function.
-
-Objective 3: Change the word theme (Exercise 3)
-- [x] Implement the ```applyThemeSettings``` function.
-
-Objective 4: Make the game harder!
-- [x] Implement the ```applyIsAlienWordleSettings``` function.
+- [x] A user should be able to answer at least 3 different questions
 
 The following **stretch** feature is implemented:
 
-- [x] Add a button on the left-hand side of the navigation bar to reset the game with the current settings
+- [x] A user should be able to properly use the app in the vertical orientation on any device size
+
+- [x] A user should be able to track which question they're currently on and how much they have left
+
+- [x] A user should be able to view how many questions they got correct after they've answered all the questions
+
+- [x] A user should be able to restart the game after they've finished answering all questions
 
 ## Video Walkthrough
 
-https://github.com/i-am-nolan25/Wordle-Project-2/assets/113712250/737ca635-22fa-42fa-b989-c8eb04581ab6
+https://github.com/i-am-nolan25/Trivia-Project-3/assets/113712250/e9fff352-8272-4878-9f36-f3124fccd29f
 
 ## License
 
